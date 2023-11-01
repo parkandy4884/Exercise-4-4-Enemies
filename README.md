@@ -1,6 +1,6 @@
 # Exercise 4.4-Enemies
 
-Exercise for MSCH-C220
+Exercise for Andy Park
 
 This exercise is designed to continue exploring a 2D Platformer, by demonstrating some different types of enemies.
 
